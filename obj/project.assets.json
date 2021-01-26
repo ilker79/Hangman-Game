@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\bootcamp12\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\bootcamp12\\Desktop\\Bootcamp 5th\\week4\\day2\\w4d2_realworldgamesincode_workshop-ma-room-five\\Hangman.csproj",
+      "projectName": "Hangman",
+      "projectPath": "C:\\Users\\bootcamp12\\Desktop\\Bootcamp 5th\\week4\\day2\\w4d2_realworldgamesincode_workshop-ma-room-five\\Hangman.csproj",
+      "packagesPath": "C:\\Users\\bootcamp12\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bootcamp12\\Desktop\\Bootcamp 5th\\week4\\day2\\w4d2_realworldgamesincode_workshop-ma-room-five\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\bootcamp12\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
