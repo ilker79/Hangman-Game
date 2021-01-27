@@ -3,11 +3,11 @@ using System;
 public class Guesser : HangmanGame
 {
     public bool Alive;
-    public int PlayerLive;
+    public int PlayerLives;
     public Guesser(int numberOfPlayers) : base(numberOfPlayers)
     {
         Alive = true;
-        PlayerLive = 8;
+        PlayerLives = 8;
 
     }
 

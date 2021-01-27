@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bootcamp12\\Desktop\\Bootcamp 5th\\week4\\day2\\w4d2_realworldgamesincode_workshop-ma-room-five\\Hangman.csproj": {}
+    "/Users/craigfarrell/Desktop/SoC/Week4/w4d2_realworldgamesincode_workshop-ma-room-five/Hangman.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bootcamp12\\Desktop\\Bootcamp 5th\\week4\\day2\\w4d2_realworldgamesincode_workshop-ma-room-five\\Hangman.csproj": {
+    "/Users/craigfarrell/Desktop/SoC/Week4/w4d2_realworldgamesincode_workshop-ma-room-five/Hangman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bootcamp12\\Desktop\\Bootcamp 5th\\week4\\day2\\w4d2_realworldgamesincode_workshop-ma-room-five\\Hangman.csproj",
+        "projectUniqueName": "/Users/craigfarrell/Desktop/SoC/Week4/w4d2_realworldgamesincode_workshop-ma-room-five/Hangman.csproj",
         "projectName": "Hangman",
-        "projectPath": "C:\\Users\\bootcamp12\\Desktop\\Bootcamp 5th\\week4\\day2\\w4d2_realworldgamesincode_workshop-ma-room-five\\Hangman.csproj",
-        "packagesPath": "C:\\Users\\bootcamp12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bootcamp12\\Desktop\\Bootcamp 5th\\week4\\day2\\w4d2_realworldgamesincode_workshop-ma-room-five\\obj\\",
+        "projectPath": "/Users/craigfarrell/Desktop/SoC/Week4/w4d2_realworldgamesincode_workshop-ma-room-five/Hangman.csproj",
+        "packagesPath": "/Users/craigfarrell/.nuget/packages/",
+        "outputPath": "/Users/craigfarrell/Desktop/SoC/Week4/w4d2_realworldgamesincode_workshop-ma-room-five/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bootcamp12\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/craigfarrell/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }
