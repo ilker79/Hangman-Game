@@ -9,8 +9,8 @@ namespace Hangman
         {
             //   Console.WriteLine("Hello Craig");
             // HangmanGame.checkAvailableLeters();
-            HangmanGame game1 = new HangmanGame(1);
-            game1.checkAvailableLeters();
+            // HangmanGame game1 = new HangmanGame(1);
+            // game1.checkAvailableLeters();
             //write function which starts the game, function excepts 2 parameter as players, one guesser, one word chooser
             //prompt word chooser to enter a word as string.
             //put the chosen word in to the word class as an array(split the chosen word to create an array).
@@ -24,6 +24,11 @@ namespace Hangman
             //show the array to the player
             //prompt the user to choose another letter. DONE            
             //break the loop when lives run out or player guesses the word correctly
+
+            HangmanGame game1 = new HangmanGame("ilker", "someone else");
+            game1.Play();
+
+
 
 
         }
