@@ -1,4 +1,4 @@
-This game has been created during School of Code adventure.
+This game has been created during School of Code adventure, 4th Week.
 
 It is a simple console game written in C#. Although it is not complete, it is mostly functional. You can start the game on the terminal with "dotnet run" command. You will be asked to choose a word, then enter letters to guess the word. 
 
