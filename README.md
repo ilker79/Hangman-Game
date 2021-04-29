@@ -1,3 +1,21 @@
+This game has been created during School of Code adventure.
+
+It is a simple console game. Although it is not complete, it is mostly functional. You can start the game on the terminal with "dotnet run" command. You will be asked to choose a word, then enter letters to guess the word. 
+
+Each letter in the word will be displayed as asterisk(I couldn't put the symbol * here inside double quotes as it changes the font to italic. Actually whatever you add just after * becomes italic). When you guess and if your guess is correct, that letter will appear on the word. If you fail to guess the correct letter the man will start to appear and eventually you will see the below image after 7 wrong guesses. 
+
+ 0
+/|\
+ |
+/ \
+
+It's got some bugs to be fixed and then I need to complete the functionality. 
+
+Please let me know what you think.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 # Real World Representations in Code: Making a Console Game
 
 Games are a great way to think about how to marry the logical steps and problem solving that we've been learning in your time on the course so far with something tangible in real life. Today, we'll make a console version of a familiar game of your choice.
