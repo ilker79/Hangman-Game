@@ -1,6 +1,6 @@
 This game has been created during School of Code adventure.
 
-It is a simple console game. Although it is not complete, it is mostly functional. You can start the game on the terminal with "dotnet run" command. You will be asked to choose a word, then enter letters to guess the word. 
+It is a simple console game written in C#. Although it is not complete, it is mostly functional. You can start the game on the terminal with "dotnet run" command. You will be asked to choose a word, then enter letters to guess the word. 
 
 Each letter in the word will be displayed as asterisk(I couldn't put the symbol * here inside double quotes as it changes the font to italic. Actually whatever you add just after * becomes italic). When you guess and if your guess is correct, that letter will appear on the word. If you fail to guess the correct letter the man will start to appear and eventually you will see the below image after 7 wrong guesses. 
 
